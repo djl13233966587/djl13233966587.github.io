@@ -1,7 +1,5 @@
 # djl13233966587.github.io
 My personal website
-个人简历
-Personal resume
 基本信息
 姓名：杜金磊
 邮箱：djl13233966587@163.com
